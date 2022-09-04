@@ -2,9 +2,8 @@ file_format: "1"
 id: dumbpad
 name: dumbpad
 type: shield
-url: https://github.com/imchipwood/dumbpad/tree/master/combo_oled
+url: https://github.com/imchipwood/dumbpad/tree/master/combo
 requires: [pro_micro]
-exposes: [i2c_oled]
 features:
   - keys
   - display
